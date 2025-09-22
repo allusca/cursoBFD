@@ -84,3 +84,5 @@ if nota >=7:
 
 if a + b + c: 
     print("resultado")
+
+print()
